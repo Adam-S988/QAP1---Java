@@ -1,4 +1,4 @@
-# QAP1 - Password Generator
+# QAP1 - JAVA
 
 Author - Adam Stevenson
 
