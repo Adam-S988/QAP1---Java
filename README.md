@@ -2,4 +2,4 @@
 
 Author - Adam Stevenson
 
-This repo is shoing some basic examples of Java files, with constructors and methods.
+This repo is showing some basic examples of Java files, with constructors and methods.
